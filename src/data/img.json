@@ -1,0 +1,104 @@
+[
+  {
+    "id": "1",
+    "title": "jeans regular",
+    "categorie": "homme",
+    "image": "./images/jeans homme.webp",
+    "alt": "jeans homme",
+    "size": "42",
+    "color": "blue",
+    "price": "59,99€"
+  },
+  {
+    "id": "2",
+    "title": "jeans slim",
+    "categorie": "homme",
+    "image": "./images/jeans slim femme.webp",
+    "alt": "jeans slim hommes",
+    "size": "40",
+    "color": "blue",
+    "price": "59,99€"
+  },
+  {
+    "id": "3",
+    "title": "jeans slim",
+    "categorie": "femme",
+    "image": "./images/jeans slim homme.webp",
+    "alt": "jeans slim femme",
+    "size": "38",
+    "color": "blue",
+    "price": "84.95€"
+  },
+  {
+    "id": "4",
+    "title": "T-shirt",
+    "categorie": "homme",
+    "image": "./images/t-shirt homme.jpg",
+    "alt": "T-shirt homme",
+    "size": "M",
+    "color": "white",
+    "price": "29,90€"
+  },
+  {
+    "id": "5",
+    "title": "T-shirt",
+    "categorie": "femme",
+    "image": "./images/t-shirt noir femme.jpg",
+    "alt": "T-shirt femme",
+    "size": "38",
+    "color": "black",
+    "price": "5.95€"
+  },
+  {
+    "id": "6",
+    "title": "pull",
+    "categorie": "femme",
+    "image": "./images/pull femme.webp",
+    "alt": "pull femme",
+    "size": "40",
+    "color": "red",
+    "price": "8.49€"
+  },
+  {
+    "id": "7",
+    "title": "manteau",
+    "categorie": "femme",
+    "image": "./images/manteau femme.webp",
+    "alt": "manteau femme",
+    "size": "38",
+    "color": "grey",
+    "price": "39,99€",
+    "width": "30px",
+    "height": "80px"
+  },
+  {
+    "id": "8",
+    "title": "manteau",
+    "categorie": "homme",
+    "image": "./images/manteau homme.webp",
+    "alt": "manteau homme",
+    "size": "42",
+    "color": "black",
+    "price": "49.95€"
+  },
+  {
+    "id": "9",
+    "title": "chaussure",
+    "categorie": "homme",
+    "image": "./images/chaussure homme.jpg",
+    "alt": "chaussure homme",
+    "size": "42",
+    "color": "camel",
+    "price": "110€"
+  },
+  {
+    "id": "10",
+    "title": "chaussure",
+    "categorie": "femme",
+    "image": "./images/chaussure femme.webp",
+    "alt": "chaussure femme",
+    "size": "40",
+    "color": "white",
+    "price": "90€"
+  }
+]
